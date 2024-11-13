@@ -1,3 +1,7 @@
+CREATE DATABASE mariama;
+
+USE mariama;
+
 CREATE TABLE Enseignent(
     id INT PRIMARY KEY AUTO_INCREMENT,
     nom VARCHAR(50) NOT NULL,
